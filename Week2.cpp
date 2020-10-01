@@ -83,4 +83,4 @@ Collection of data
 most useful standard library data type
 same as ArrayList in Java
 */
-std::vector<double> listNumbers;
+std::vector<double> listNumbers; //stl vector is created
