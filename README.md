@@ -17,6 +17,7 @@ This is an open-source collaborating repository for all the coders who want to c
 3. If you've added code that should be tested, add tests.
 4. If you've changed APIs, update the documentation.
 5. Issue that pull request
+6. Share the repo as much as possible
 
 ## License
 By contributing, you agree that your contributions will be licensed under its MIT License.
